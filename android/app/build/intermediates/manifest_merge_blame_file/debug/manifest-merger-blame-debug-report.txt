@@ -1,0 +1,347 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.app1"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="30" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/home/anuragsharma/RN Projects/app2/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/home/anuragsharma/RN Projects/app2/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:5:6-65
+12-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:5:23-63
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:4:5-67
+13-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:4:22-64
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->/home/anuragsharma/RN Projects/app2/android/app/src/debug/AndroidManifest.xml:9:5-80
+14-->/home/anuragsharma/RN Projects/app2/android/app/src/debug/AndroidManifest.xml:9:22-77
+15    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+15-->/home/anuragsharma/RN Projects/app2/android/app/src/debug/AndroidManifest.xml:10:1-76
+15-->/home/anuragsharma/RN Projects/app2/android/app/src/debug/AndroidManifest.xml:10:18-73
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:6:1-76
+16-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:6:18-74
+17    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+17-->/home/anuragsharma/RN Projects/app2/android/app/src/debug/AndroidManifest.xml:12:1-77
+17-->/home/anuragsharma/RN Projects/app2/android/app/src/debug/AndroidManifest.xml:12:18-74
+18    <uses-permission android:name="ANDROID.PERMISSION.READ_EXTERNAL_STORAGE" />
+18-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:7:1-75
+18-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:7:18-73
+19    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+19-->[com.facebook.flipper:flipper:0.99.0] /home/anuragsharma/.gradle/caches/transforms-3/a1eceeec0d801ceedbf0b632deb6e998/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:5-76
+19-->[com.facebook.flipper:flipper:0.99.0] /home/anuragsharma/.gradle/caches/transforms-3/a1eceeec0d801ceedbf0b632deb6e998/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:22-73
+20    <uses-permission android:name="android.permission.WAKE_LOCK" />
+20-->[:react-native-firebase_auth] /home/anuragsharma/RN Projects/app2/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+20-->[:react-native-firebase_auth] /home/anuragsharma/RN Projects/app2/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->[:react-native-firebase_auth] /home/anuragsharma/RN Projects/app2/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+21-->[:react-native-firebase_auth] /home/anuragsharma/RN Projects/app2/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-76
+22
+23    <queries>
+23-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:15
+24        <intent>
+24-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:18
+25            <action android:name="android.media.action.IMAGE_CAPTURE" />
+25-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-73
+25-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:21-70
+26        </intent>
+27    </queries>
+28
+29    <application
+29-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:41:5-59:19
+30        android:name="com.app1.MainApplication"
+30-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:42:7-38
+31        android:allowBackup="false"
+31-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:46:7-34
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.6.0] /home/anuragsharma/.gradle/caches/transforms-3/dd117d962f78c124029b345dbada2561/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+33        android:debuggable="true"
+34        android:icon="@mipmap/ic_launcher"
+34-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:44:7-41
+35        android:label="@string/app_name"
+35-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:43:7-39
+36        android:roundIcon="@mipmap/ic_launcher_round"
+36-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:45:7-52
+37        android:theme="@style/AppTheme"
+37-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:47:7-38
+38        android:usesCleartextTraffic="true" >
+38-->/home/anuragsharma/RN Projects/app2/android/app/src/debug/AndroidManifest.xml:15:9-44
+39        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+39-->/home/anuragsharma/RN Projects/app2/android/app/src/debug/AndroidManifest.xml:18:9-86
+39-->/home/anuragsharma/RN Projects/app2/android/app/src/debug/AndroidManifest.xml:18:19-83
+40        <activity
+40-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:48:7-58:18
+41            android:name="com.app1.MainActivity"
+41-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:49:9-37
+42            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+42-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:51:9-86
+43            android:label="@string/app_name"
+43-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:50:9-41
+44            android:launchMode="singleTask"
+44-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:52:9-40
+45            android:windowSoftInputMode="adjustResize" >
+45-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:53:9-51
+46            <intent-filter>
+46-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:54:9-57:25
+47                <action android:name="android.intent.action.MAIN" />
+47-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:55:13-65
+47-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:55:21-62
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:56:13-73
+49-->/home/anuragsharma/RN Projects/app2/android/app/src/main/AndroidManifest.xml:56:23-70
+50            </intent-filter>
+51        </activity>
+52
+53        <meta-data
+53-->[:react-native-firebase_app] /home/anuragsharma/RN Projects/app2/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:36
+54            android:name="app_data_collection_default_enabled"
+54-->[:react-native-firebase_app] /home/anuragsharma/RN Projects/app2/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+55            android:value="true" />
+55-->[:react-native-firebase_app] /home/anuragsharma/RN Projects/app2/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-33
+56
+57        <service
+57-->[:react-native-firebase_app] /home/anuragsharma/RN Projects/app2/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-18:19
+58            android:name="com.google.firebase.components.ComponentDiscoveryService"
+58-->[:react-native-firebase_app] /home/anuragsharma/RN Projects/app2/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:18-89
+59            android:directBootAware="true"
+59-->[com.google.firebase:firebase-common:20.0.0] /home/anuragsharma/.gradle/caches/transforms-3/300fb8803c83e8bb23a83875e1e83014/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+60            android:exported="false" >
+60-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:76:13-37
+61            <meta-data
+61-->[:react-native-firebase_app] /home/anuragsharma/RN Projects/app2/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:85
+62                android:name="com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar"
+62-->[:react-native-firebase_app] /home/anuragsharma/RN Projects/app2/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-120
+63                android:value="com.google.firebase.components.ComponentRegistrar" />
+63-->[:react-native-firebase_app] /home/anuragsharma/RN Projects/app2/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-82
+64            <meta-data
+64-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:77:13-79:85
+65                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+65-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:78:17-109
+66                android:value="com.google.firebase.components.ComponentRegistrar" />
+66-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:79:17-82
+67            <meta-data
+67-->[com.google.firebase:firebase-firestore:24.0.1] /home/anuragsharma/.gradle/caches/transforms-3/bd6bf76664addc00a7be0c7e019d6e35/transformed/jetified-firebase-firestore-24.0.1/AndroidManifest.xml:20:13-22:85
+68                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+68-->[com.google.firebase:firebase-firestore:24.0.1] /home/anuragsharma/.gradle/caches/transforms-3/bd6bf76664addc00a7be0c7e019d6e35/transformed/jetified-firebase-firestore-24.0.1/AndroidManifest.xml:21:17-111
+69                android:value="com.google.firebase.components.ComponentRegistrar" />
+69-->[com.google.firebase:firebase-firestore:24.0.1] /home/anuragsharma/.gradle/caches/transforms-3/bd6bf76664addc00a7be0c7e019d6e35/transformed/jetified-firebase-firestore-24.0.1/AndroidManifest.xml:22:17-82
+70            <meta-data
+70-->[com.google.firebase:firebase-storage:20.0.0] /home/anuragsharma/.gradle/caches/transforms-3/11f2616e086be799b2ab422b98072035/transformed/jetified-firebase-storage-20.0.0/AndroidManifest.xml:33:13-35:85
+71                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+71-->[com.google.firebase:firebase-storage:20.0.0] /home/anuragsharma/.gradle/caches/transforms-3/11f2616e086be799b2ab422b98072035/transformed/jetified-firebase-storage-20.0.0/AndroidManifest.xml:34:17-107
+72                android:value="com.google.firebase.components.ComponentRegistrar" />
+72-->[com.google.firebase:firebase-storage:20.0.0] /home/anuragsharma/.gradle/caches/transforms-3/11f2616e086be799b2ab422b98072035/transformed/jetified-firebase-storage-20.0.0/AndroidManifest.xml:35:17-82
+73            <meta-data
+73-->[com.google.firebase:firebase-database:20.0.3] /home/anuragsharma/.gradle/caches/transforms-3/208da248c1a1490a510170c4c146eb10/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:32:13-34:85
+74                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+74-->[com.google.firebase:firebase-database:20.0.3] /home/anuragsharma/.gradle/caches/transforms-3/208da248c1a1490a510170c4c146eb10/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:33:17-109
+75                android:value="com.google.firebase.components.ComponentRegistrar" />
+75-->[com.google.firebase:firebase-database:20.0.3] /home/anuragsharma/.gradle/caches/transforms-3/208da248c1a1490a510170c4c146eb10/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:34:17-82
+76        </service>
+77
+78        <provider
+78-->[:react-native-firebase_app] /home/anuragsharma/RN Projects/app2/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-24:38
+79            android:name="io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider"
+79-->[:react-native-firebase_app] /home/anuragsharma/RN Projects/app2/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-88
+80            android:authorities="com.app1.reactnativefirebaseappinitprovider"
+80-->[:react-native-firebase_app] /home/anuragsharma/RN Projects/app2/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-86
+81            android:exported="false"
+81-->[:react-native-firebase_app] /home/anuragsharma/RN Projects/app2/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-37
+82            android:initOrder="99" />
+82-->[:react-native-firebase_app] /home/anuragsharma/RN Projects/app2/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-35
+83        <provider
+83-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:9-26:20
+84            android:name="androidx.core.content.FileProvider"
+84-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-62
+85            android:authorities="com.app1.provider"
+85-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-60
+86            android:exported="false"
+86-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+87            android:grantUriPermissions="true" >
+87-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-47
+88            <meta-data
+88-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:58
+89                android:name="android.support.FILE_PROVIDER_PATHS"
+89-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+90                android:resource="@xml/provider_paths" />
+90-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-55
+91        </provider>
+92
+93        <activity
+93-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-30:72
+94            android:name="com.yalantis.ucrop.UCropActivity"
+94-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-60
+95            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+95-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-69
+96
+97        <provider
+97-->[:react-native-image-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+98            android:name="com.imagepicker.ImagePickerProvider"
+98-->[:react-native-image-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+99            android:authorities="com.app1.imagepickerprovider"
+99-->[:react-native-image-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
+100            android:exported="false"
+100-->[:react-native-image-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+101            android:grantUriPermissions="true" >
+101-->[:react-native-image-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+102            <meta-data
+102-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:58
+103                android:name="android.support.FILE_PROVIDER_PATHS"
+103-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+104                android:resource="@xml/imagepicker_provider_paths" />
+104-->[:react-native-image-crop-picker] /home/anuragsharma/RN Projects/app2/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-55
+105        </provider>
+106
+107        <activity
+107-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:27:9-44:20
+108            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+108-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:28:13-80
+109            android:excludeFromRecents="true"
+109-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:29:13-46
+110            android:exported="true"
+110-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:30:13-36
+111            android:launchMode="singleTask"
+111-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:31:13-44
+112            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+112-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:32:13-72
+113            <intent-filter>
+113-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:33:13-43:29
+114                <action android:name="android.intent.action.VIEW" />
+114-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:34:17-69
+114-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:34:25-66
+115
+116                <category android:name="android.intent.category.DEFAULT" />
+116-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:17-76
+116-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:27-73
+117                <category android:name="android.intent.category.BROWSABLE" />
+117-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:17-78
+117-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:27-75
+118
+119                <data
+119-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:39:17-42:51
+120                    android:host="firebase.auth"
+120-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:40:21-49
+121                    android:path="/"
+121-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:41:21-37
+122                    android:scheme="genericidp" />
+122-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:42:21-48
+123            </intent-filter>
+124        </activity>
+125        <activity
+125-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:45:9-62:20
+126            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+126-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:46:13-79
+127            android:excludeFromRecents="true"
+127-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:47:13-46
+128            android:exported="true"
+128-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:48:13-36
+129            android:launchMode="singleTask"
+129-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:49:13-44
+130            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+130-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:50:13-72
+131            <intent-filter>
+131-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:51:13-61:29
+132                <action android:name="android.intent.action.VIEW" />
+132-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:34:17-69
+132-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:34:25-66
+133
+134                <category android:name="android.intent.category.DEFAULT" />
+134-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:17-76
+134-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:27-73
+135                <category android:name="android.intent.category.BROWSABLE" />
+135-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:17-78
+135-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:27-75
+136
+137                <data
+137-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:39:17-42:51
+138                    android:host="firebase.auth"
+138-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:40:21-49
+139                    android:path="/"
+139-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:41:21-37
+140                    android:scheme="recaptcha" />
+140-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:42:21-48
+141            </intent-filter>
+142        </activity>
+143
+144        <service
+144-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:64:9-73:19
+145            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+145-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:65:13-101
+146            android:enabled="true"
+146-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:66:13-35
+147            android:exported="false" >
+147-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:67:13-37
+148            <intent-filter>
+148-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:68:13-72:29
+149                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+149-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:69:17-89
+149-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:69:25-86
+150
+151                <category android:name="android.intent.category.DEFAULT" />
+151-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:17-76
+151-->[com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:27-73
+152            </intent-filter>
+153        </service>
+154
+155        <provider
+155-->[com.google.firebase:firebase-common:20.0.0] /home/anuragsharma/.gradle/caches/transforms-3/300fb8803c83e8bb23a83875e1e83014/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+156            android:name="com.google.firebase.provider.FirebaseInitProvider"
+156-->[com.google.firebase:firebase-common:20.0.0] /home/anuragsharma/.gradle/caches/transforms-3/300fb8803c83e8bb23a83875e1e83014/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+157            android:authorities="com.app1.firebaseinitprovider"
+157-->[com.google.firebase:firebase-common:20.0.0] /home/anuragsharma/.gradle/caches/transforms-3/300fb8803c83e8bb23a83875e1e83014/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+158            android:directBootAware="true"
+158-->[com.google.firebase:firebase-common:20.0.0] /home/anuragsharma/.gradle/caches/transforms-3/300fb8803c83e8bb23a83875e1e83014/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+159            android:exported="false"
+159-->[com.google.firebase:firebase-common:20.0.0] /home/anuragsharma/.gradle/caches/transforms-3/300fb8803c83e8bb23a83875e1e83014/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+160            android:initOrder="100" />
+160-->[com.google.firebase:firebase-common:20.0.0] /home/anuragsharma/.gradle/caches/transforms-3/300fb8803c83e8bb23a83875e1e83014/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+161
+162        <activity
+162-->[com.google.android.gms:play-services-auth:20.1.0] /home/anuragsharma/.gradle/caches/transforms-3/5e1b8dedcc2307c2588ce4624b350187/transformed/jetified-play-services-auth-20.1.0/AndroidManifest.xml:23:9-27:75
+163            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+163-->[com.google.android.gms:play-services-auth:20.1.0] /home/anuragsharma/.gradle/caches/transforms-3/5e1b8dedcc2307c2588ce4624b350187/transformed/jetified-play-services-auth-20.1.0/AndroidManifest.xml:24:13-93
+164            android:excludeFromRecents="true"
+164-->[com.google.android.gms:play-services-auth:20.1.0] /home/anuragsharma/.gradle/caches/transforms-3/5e1b8dedcc2307c2588ce4624b350187/transformed/jetified-play-services-auth-20.1.0/AndroidManifest.xml:25:13-46
+165            android:exported="false"
+165-->[com.google.android.gms:play-services-auth:20.1.0] /home/anuragsharma/.gradle/caches/transforms-3/5e1b8dedcc2307c2588ce4624b350187/transformed/jetified-play-services-auth-20.1.0/AndroidManifest.xml:26:13-37
+166            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+166-->[com.google.android.gms:play-services-auth:20.1.0] /home/anuragsharma/.gradle/caches/transforms-3/5e1b8dedcc2307c2588ce4624b350187/transformed/jetified-play-services-auth-20.1.0/AndroidManifest.xml:27:13-72
+167        <!--
+168            Service handling Google Sign-In user revocation. For apps that do not integrate with
+169            Google Sign-In, this service will never be started.
+170        -->
+171        <service
+171-->[com.google.android.gms:play-services-auth:20.1.0] /home/anuragsharma/.gradle/caches/transforms-3/5e1b8dedcc2307c2588ce4624b350187/transformed/jetified-play-services-auth-20.1.0/AndroidManifest.xml:33:9-37:51
+172            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+172-->[com.google.android.gms:play-services-auth:20.1.0] /home/anuragsharma/.gradle/caches/transforms-3/5e1b8dedcc2307c2588ce4624b350187/transformed/jetified-play-services-auth-20.1.0/AndroidManifest.xml:34:13-89
+173            android:exported="true"
+173-->[com.google.android.gms:play-services-auth:20.1.0] /home/anuragsharma/.gradle/caches/transforms-3/5e1b8dedcc2307c2588ce4624b350187/transformed/jetified-play-services-auth-20.1.0/AndroidManifest.xml:35:13-36
+174            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+174-->[com.google.android.gms:play-services-auth:20.1.0] /home/anuragsharma/.gradle/caches/transforms-3/5e1b8dedcc2307c2588ce4624b350187/transformed/jetified-play-services-auth-20.1.0/AndroidManifest.xml:36:13-107
+175            android:visibleToInstantApps="true" />
+175-->[com.google.android.gms:play-services-auth:20.1.0] /home/anuragsharma/.gradle/caches/transforms-3/5e1b8dedcc2307c2588ce4624b350187/transformed/jetified-play-services-auth-20.1.0/AndroidManifest.xml:37:13-48
+176
+177        <activity
+177-->[com.google.android.gms:play-services-base:18.0.1] /home/anuragsharma/.gradle/caches/transforms-3/58b6e856e44a656587f4dd5b0bbe4c98/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+178            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+178-->[com.google.android.gms:play-services-base:18.0.1] /home/anuragsharma/.gradle/caches/transforms-3/58b6e856e44a656587f4dd5b0bbe4c98/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+179            android:exported="false"
+179-->[com.google.android.gms:play-services-base:18.0.1] /home/anuragsharma/.gradle/caches/transforms-3/58b6e856e44a656587f4dd5b0bbe4c98/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+180            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+180-->[com.google.android.gms:play-services-base:18.0.1] /home/anuragsharma/.gradle/caches/transforms-3/58b6e856e44a656587f4dd5b0bbe4c98/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+181
+182        <meta-data
+182-->[com.google.android.gms:play-services-basement:18.0.0] /home/anuragsharma/.gradle/caches/transforms-3/381d6950a947282c82d4d1d393a5abd7/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+183            android:name="com.google.android.gms.version"
+183-->[com.google.android.gms:play-services-basement:18.0.0] /home/anuragsharma/.gradle/caches/transforms-3/381d6950a947282c82d4d1d393a5abd7/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+184            android:value="@integer/google_play_services_version" />
+184-->[com.google.android.gms:play-services-basement:18.0.0] /home/anuragsharma/.gradle/caches/transforms-3/381d6950a947282c82d4d1d393a5abd7/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+185    </application>
+186
+187</manifest>
