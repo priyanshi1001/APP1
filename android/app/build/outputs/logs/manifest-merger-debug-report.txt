@@ -25,6 +25,7 @@ MERGED from [:react-native-safe-area-context] /home/anuragsharma/RN Projects/app
 MERGED from [:react-native-screens] /home/anuragsharma/RN Projects/app2/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-sweet-alert] /home/anuragsharma/RN Projects/app2/node_modules/react-native-sweet-alert/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
 MERGED from [:react-native-vector-icons] /home/anuragsharma/RN Projects/app2/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-video] /home/anuragsharma/RN Projects/app2/node_modules/react-native-video/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-native:0.67.3] /home/anuragsharma/.gradle/caches/transforms-3/e3ca07ff2f5439e1ed36a24639d4425d/transformed/jetified-react-native-0.67.3/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:17:1-83:12
 MERGED from [androidx.multidex:multidex:2.0.0] /home/anuragsharma/.gradle/caches/transforms-3/6bc58156530125f627f59b450af287b9/transformed/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
@@ -108,6 +109,7 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /home/anuragsharma/.gradl
 MERGED from [androidx.print:print:1.0.0] /home/anuragsharma/.gradle/caches/transforms-3/c7d38319ce5a2a1a23407ac2b28497e7/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fbcore:2.5.0] /home/anuragsharma/.gradle/caches/transforms-3/6cc53a6ae5b6971abe2ba1be597c57b6/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.github.f0ris.sweetalert:library:1.6.2] /home/anuragsharma/.gradle/caches/transforms-3/376844f1d61730eceb6ed8779e86c005/transformed/jetified-library-1.6.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /home/anuragsharma/.gradle/caches/transforms-3/ff33b83f823bf42db8127e6bc963b0b4/transformed/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:2:1-12:12
 MERGED from [com.pnikosis:materialish-progress:1.7] /home/anuragsharma/.gradle/caches/transforms-3/1bcab2fcb7270f9a7e4add85f3e099ee/transformed/jetified-materialish-progress-1.7/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/anuragsharma/.gradle/caches/transforms-3/8303890f9f39ec408daee5d1f21ff685/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/anuragsharma/.gradle/caches/transforms-3/3657690c90847e857858f9437afea0da/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
@@ -311,6 +313,8 @@ MERGED from [:react-native-sweet-alert] /home/anuragsharma/RN Projects/app2/node
 MERGED from [:react-native-sweet-alert] /home/anuragsharma/RN Projects/app2/node_modules/react-native-sweet-alert/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
 MERGED from [:react-native-vector-icons] /home/anuragsharma/RN Projects/app2/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-vector-icons] /home/anuragsharma/RN Projects/app2/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-video] /home/anuragsharma/RN Projects/app2/node_modules/react-native-video/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-video] /home/anuragsharma/RN Projects/app2/node_modules/react-native-video/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.67.3] /home/anuragsharma/.gradle/caches/transforms-3/e3ca07ff2f5439e1ed36a24639d4425d/transformed/jetified-react-native-0.67.3/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.67.3] /home/anuragsharma/.gradle/caches/transforms-3/e3ca07ff2f5439e1ed36a24639d4425d/transformed/jetified-react-native-0.67.3/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/anuragsharma/.gradle/caches/transforms-3/f89c30740994c7f8d5fa9d3cde0dcae2/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:21:5-44
@@ -477,6 +481,8 @@ MERGED from [com.facebook.fresco:fbcore:2.5.0] /home/anuragsharma/.gradle/caches
 MERGED from [com.facebook.fresco:fbcore:2.5.0] /home/anuragsharma/.gradle/caches/transforms-3/6cc53a6ae5b6971abe2ba1be597c57b6/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.f0ris.sweetalert:library:1.6.2] /home/anuragsharma/.gradle/caches/transforms-3/376844f1d61730eceb6ed8779e86c005/transformed/jetified-library-1.6.2/AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.f0ris.sweetalert:library:1.6.2] /home/anuragsharma/.gradle/caches/transforms-3/376844f1d61730eceb6ed8779e86c005/transformed/jetified-library-1.6.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /home/anuragsharma/.gradle/caches/transforms-3/ff33b83f823bf42db8127e6bc963b0b4/transformed/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /home/anuragsharma/.gradle/caches/transforms-3/ff33b83f823bf42db8127e6bc963b0b4/transformed/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:8:5-10:41
 MERGED from [com.pnikosis:materialish-progress:1.7] /home/anuragsharma/.gradle/caches/transforms-3/1bcab2fcb7270f9a7e4add85f3e099ee/transformed/jetified-materialish-progress-1.7/AndroidManifest.xml:7:5-9:41
 MERGED from [com.pnikosis:materialish-progress:1.7] /home/anuragsharma/.gradle/caches/transforms-3/1bcab2fcb7270f9a7e4add85f3e099ee/transformed/jetified-materialish-progress-1.7/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/anuragsharma/.gradle/caches/transforms-3/8303890f9f39ec408daee5d1f21ff685/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
